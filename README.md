@@ -7,8 +7,8 @@ Stack Tech:
 3) MongoDB
 
 Authantication API (JWT)
-1)Signup 
-2)Login
+1) Signup 
+2) Login
 
 CRUD API
 1) ADD POST

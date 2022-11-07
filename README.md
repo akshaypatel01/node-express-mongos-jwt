@@ -16,6 +16,11 @@ CRUD API
 3) Delete POST
 4) Fetch POST
 
+Script for run
+ 1. npm run start
+
 Before run this project you should edit the index.js and .env file
     Index.js :- Replace DB credentials
     .env :- change the PORT variable and/or secret key for JWT
+    
+    

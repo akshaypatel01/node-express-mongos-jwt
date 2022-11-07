@@ -1,7 +1,7 @@
 # node-express-mongos-jwt
 Created with StackBlitz ⚡️
 
-Stack Tech:
+Tech Stack:
 1) Node
 2) Express
 3) MongoDB
